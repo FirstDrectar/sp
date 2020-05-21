@@ -1,0 +1,3 @@
+Program started.
+Called fork and exiting.
+pid: 72739, gid: 1001
