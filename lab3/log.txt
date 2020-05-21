@@ -1,0 +1,22 @@
+Program started with PID: 73204
+Sleep for 10s.
+Sleep for 10s.
+Sleep for 10s.
+signo: 1 
+code: 0
+errno: 0
+pid: 73208
+uid: 1000
+addr: 73208
+status: 0
+
+Sleep for 10s.
+signo: 1 
+code: 0
+errno: 0
+pid: 73208
+uid: 1000
+addr: 73208
+status: 0
+
+Sleep for 10s.
